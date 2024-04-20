@@ -11,10 +11,21 @@
     .coversection {
         padding-inline: 67px;
     }
+
+    /* section 2 */
+    .cardsection {
+        padding-inline: 67px;
+    }
+
+    .carddiv {
+        flex: 1 1 340px
+    }
 }
 
 @media (max-width: 677px) {
-    header header {
+
+    /* header  */
+    header {
         padding: 6px 14px;
     }
 
@@ -24,5 +35,10 @@
 
     nav {
         display: none;
+    }
+
+    .carddiv {
+        flex-wrap: wrap;
+        row-gap: 20px;
     }
 }

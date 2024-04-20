@@ -24,4 +24,16 @@
         font-size: 32px;
         line-height: 40px;
     }
+
+    /* section 2  */
+    .cardsection {
+        padding-inline: 14px;
+    }
+
+    h3 {
+        font-family: "Kanit", sans-serif;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+    }
 }

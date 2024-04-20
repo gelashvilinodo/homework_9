@@ -11,4 +11,15 @@
     .coversection {
         padding-inline: 92px;
     }
+
+    /* section 2 */
+    .carddiv {
+        flex: 1 1 410px;
+    }
+
+    .cards {}
+
+    .card3 {
+        display: none;
+    }
 }
