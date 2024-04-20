@@ -1,23 +1,28 @@
 /* 835 */
 
-@media (max-width: 835px){
+@media (max-width: 835px) {
+
     /* header  */
-    header{
+    header {
         padding: 6px 67px;
+    }
+
+    /* section 1 */
+    .coversection {
+        padding-inline: 67px;
     }
 }
 
-@media (max-width: 677px){
-    /* header  */
-    header{
-        padding: 0px 14px;
+@media (max-width: 677px) {
+    header header {
+        padding: 6px 14px;
     }
 
-    .burger{
+    .burger {
         display: block;
     }
 
-    nav{
+    nav {
         display: none;
     }
 }

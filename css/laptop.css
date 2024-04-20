@@ -1,8 +1,14 @@
 /* 1025 */
 
-@media (max-width: 1025px){
+@media (max-width: 1025px) {
+
     /* header  */
-    header{
+    header {
         padding: 6px 92px;
+    }
+
+    /* section 1  */
+    .coversection {
+        padding-inline: 92px;
     }
 }

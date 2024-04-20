@@ -1,16 +1,27 @@
 /* 376px */
 
-@media (max-width: 376px){
+@media (max-width: 376px) {
+
     /* header  */
-    header{
-        padding: 0px 14px;
+    header {
+        padding: 6px 14px;
     }
 
-    .burger{
+    .burger {
         display: block;
     }
 
-    nav{
+    nav {
         display: none;
+    }
+
+    /* section 1 */
+    .coversection {
+        padding-inline: 14px;
+    }
+
+    h2 {
+        font-size: 32px;
+        line-height: 40px;
     }
 }
