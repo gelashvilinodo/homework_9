@@ -20,6 +20,20 @@
     .carddiv {
         flex: 1 1 340px
     }
+
+    /* section 3 */
+
+    .section3pics{
+        padding-inline: 67px;
+    }
+
+    .redroof{
+        width: 700px;
+    }
+
+    .lakes{
+        width: 340px;
+    }
 }
 
 @media (max-width: 677px) {

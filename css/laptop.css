@@ -17,9 +17,30 @@
         flex: 1 1 410px;
     }
 
-    .cards {}
-
     .card3 {
         display: none;
+    }
+
+    /* section 3 */
+    .section3pics {
+        padding-inline: 92px;
+    }
+
+    .allpics {
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .redroof {
+        width: 840px;
+    }
+
+    .lakehouse {
+        flex-direction: row;
+        column-gap: 20px;
+    }
+
+    .lakes {
+        width: 410px;
     }
 }
