@@ -38,21 +38,26 @@
     }
 
     /* section 3  */
-    .section3pics{
+    .section3pics {
         padding: 0;
+        padding-bottom: 48px;
     }
 
-    .redroof{
+    .redroof {
         width: 375px;
     }
 
-    .redroofpic{
+    .redroofpic {
         object-fit: cover;
         object-position: center;
     }
 
-    .lakehouse{
+    .lakehouse {
         flex-wrap: wrap;
     }
-}
 
+    /* footer  */
+    footer {
+        padding: 31px 100px;
+    }
+}

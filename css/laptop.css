@@ -42,7 +42,11 @@
     }
 
     .lakes {
-        /* width: 410px; */
         width: 100%;
+    }
+
+    /* footer  */
+    footer {
+        padding: 31px 425px;
     }
 }

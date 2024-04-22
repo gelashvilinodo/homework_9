@@ -25,6 +25,7 @@
 
     .section3pics {
         padding-inline: 67px;
+        padding-bottom: 80px;
     }
 
     .redroof {
@@ -35,7 +36,10 @@
         flex: 1 1 340px;
     }
 
-    
+    /* footer  */
+    footer {
+        padding: 31px 329px;
+    }
 }
 
 @media (max-width: 677px) {
@@ -53,6 +57,7 @@
         display: none;
     }
 
+    /* section 2 */
     .carddiv {
         flex-wrap: wrap;
         row-gap: 20px;
