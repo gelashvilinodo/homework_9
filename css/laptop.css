@@ -38,9 +38,11 @@
     .lakehouse {
         flex-direction: row;
         column-gap: 20px;
+        flex: 1 1 410px;
     }
 
     .lakes {
-        width: 410px;
+        /* width: 410px; */
+        width: 100%;
     }
 }

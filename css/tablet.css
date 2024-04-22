@@ -23,17 +23,19 @@
 
     /* section 3 */
 
-    .section3pics{
+    .section3pics {
         padding-inline: 67px;
     }
 
-    .redroof{
+    .redroof {
         width: 700px;
     }
 
-    .lakes{
-        width: 340px;
+    .lakehouse {
+        flex: 1 1 340px;
     }
+
+    
 }
 
 @media (max-width: 677px) {

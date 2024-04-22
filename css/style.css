@@ -156,14 +156,9 @@ h3 {
     line-height: 45px;
 }
 
-.allpics {
+.allpics{
     display: flex;
-    flex: 1 1 780px;
     column-gap: 20px;
-}
-
-.redroof {
-    width: 780px;
 }
 
 .lakehouse{
@@ -172,6 +167,6 @@ h3 {
     row-gap: 20px;
 }
 
-.lakes {
-    width: 380px;
+.pictures{
+    width: 100%;
 }

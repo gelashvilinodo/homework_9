@@ -36,5 +36,23 @@
         line-height: 36px;
         text-align: center;
     }
+
+    /* section 3  */
+    .section3pics{
+        padding: 0;
+    }
+
+    .redroof{
+        width: 375px;
+    }
+
+    .redroofpic{
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .lakehouse{
+        flex-wrap: wrap;
+    }
 }
 
