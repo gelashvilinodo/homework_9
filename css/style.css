@@ -170,10 +170,13 @@ h3 {
 footer {
     padding: 31px 632px;
     background-color: #000000;
+    display: flex;
+    justify-content: center;
 }
 
 .footerdiv {
     width: 175px;
+    flex-shrink: 0;
 }
 
 .footertext {
